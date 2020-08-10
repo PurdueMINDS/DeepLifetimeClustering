@@ -14,6 +14,7 @@ The necessary libraries are:
 
 Please refer to the respective documentations for installation instructions.
 
+## Datasets
 Datasets available for download (defined in datasets.py): 
 1. Friendster dataset with ~1M users (processed as described in the paper)
 2. Synthetic dataset with 3 clusters (see Figure 2(b) in the paper)
@@ -48,7 +49,7 @@ Main arguments to main.py are:
 Other arguments include ``--batchSize``, ``--epochs``, ``--lr``, ``--seed`` with the usual meanings.
 
 ## Questions
-Please feel free to reach out to S Chandra Mouli (chandr at purdue.edu) if you have any questions.
+Please feel free to reach out to S Chandra Mouli (chandr at purdue dot edu) if you have any questions.
 
 ## Citation
 If you use the data or code from this repository in your own code, please cite
